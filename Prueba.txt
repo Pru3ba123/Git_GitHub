@@ -11,3 +11,5 @@ la fecha es 2025.
 modificamos usuario y contraseña.
 
 Comenzando con Git.
+
+git show agregado
