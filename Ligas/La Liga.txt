@@ -2,7 +2,11 @@
 2- Real Madrid: 18 pts                  Estos equipos entran en Champions
 3- Atlético de Madrid: 16 pts
 
+<<<<<<< HEAD
 20- Las Palmas: 3 pts                   Estos son muy malos
+=======
+20- Las Palmas: 3 pts                   Este equipo va a descender
+>>>>>>> estadisticas
 
 Goleadores:
 1- Lewandoski: 7 goles

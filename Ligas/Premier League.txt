@@ -2,7 +2,11 @@
 2- Manchester City: 14 pts              Estos equipos entran en Champions
 3- Arsenal: 14 pts
 
+<<<<<<< HEAD
 20- Wolves: 1 pts                       Estos son muy malos
+=======
+20- Wolves: 1 pts                       Este equipo va a descender
+>>>>>>> estadisticas
 
 Goleadores:
 1- Haaland: 10 goles
