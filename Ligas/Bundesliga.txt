@@ -14,3 +14,6 @@ Asistencias:
 
 Tarjetas amarillas:
 1- Kohr: 4 amarillas
+
+Tarjetas rojas:
+1- Hanche-Olsen: 1 roja
