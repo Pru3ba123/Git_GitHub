@@ -1,11 +1,37 @@
-15 títulos: Real Madrid
-7 Títulos: Milan
-6 Títulos: Bayern Munich 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Furbo</title>
+</head>
+<body>
+    <h1 style="color: blue; font-size: 36px;">Champions League</h1>
 
-El máximo goleador es Cristiano
+    <h2>Campeones</h2>
+    <table>
+        <tr>
+            <th>15 títulos</th>
+            <th>Real Madrid</th>
+        </tr>
+        <tr>
+            <td>7 títulos</td>
+            <td>Milan</td>
+        </tr>
+        <tr>
+            <td>6 Títulos</td>
+            <td>Bayern de Munich y Liverpool</td>
+        </tr>
+    </table>
 
-El Real Madrid va a ganar la 16 y el Athletic va a ganar la Europa League (Esperemos)
-
-El máximo asistente es Messi
-
-La próxima jornada es el 1/10 a las 21
+    <h2>Tabla de Estadísticas</h2>
+    <table>
+        <tr>
+            <th>Máximo goleador</th>
+            <th>Cristiano Ronaldo</th>
+        </tr>
+        <tr>
+            <td>Máximo asistente</td>
+            <td>Messi</td>
+        </tr>
+    </table>
+</body>
+</html>
