@@ -12,3 +12,5 @@ Página web para
 *Estudio en Clara del Rey
 *Hago prácticas de DevOps
 *Estoy estudiando este curso a traves de Udemy
+*Este commit si esta completo
+**Espero que no me regañen**
