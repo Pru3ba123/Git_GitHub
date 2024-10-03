@@ -9,3 +9,5 @@ Página web para
 </p>
 *Página creada por Farid
 *Formación para prácticas
+*Estudio en Clara del Rey
+*Hago prácticas de DevOps
