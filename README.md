@@ -14,3 +14,4 @@ Página web para
 *Estoy estudiando este curso a traves de Udemy
 *Este commit si esta completo
 **Espero que no me regañen**
+### Las duración de las prácticas es desde septiembre de 2024 hasta mayo/junio de 2025
